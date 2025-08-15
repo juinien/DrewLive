@@ -1,14 +1,20 @@
-# Updated at 2025-08-15T05:16:40.742112Z
+# Updated at 2025-08-15T06:23:07.131152Z
 #EXTM3U
-#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MMA.png" group-title="StreamEast - MMA",UFC 319: Du Plessis vs. Chimaev Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-#EXTVLCOPT:http-origin=https://streamscenter.online
-#EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://nextcast.click/hls/HDGQ21/index.m3u8?st=PCv0W-o9ikXU_kVcuvcDGw&e=1755245809
-
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Dutch GP Free Practice 1 Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://nextcast.click/hls/HDGQ21/index.m3u8?st=SZ7W73nKFW5mJx0E-oIDDg&e=1755245813
+https://nextcast.click/hls/HDGQ21/index.m3u8?st=PFhuowFOLnBspXNb2aVu4A&e=1755249788
+
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="StreamEast - Am. Football",Kansas City Chiefs vs. Seattle Seahawks Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://fl1.moveonjoy.com/NFL_NETWORK/tracks-v1a1/mono.m3u8?verify=1755238998-1l1tkPg6F3xama%2Blwr%2FuuGoP2VaCWwS97wcDulTSxLk%3D
+
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MMA.png" group-title="StreamEast - MMA",UFC 319: Du Plessis vs. Chimaev Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ21/index.m3u8?st=w-wMteXPL2yg0mD63zOMCA&e=1755249801
 
