@@ -1,14 +1,20 @@
-# Updated at 2025-08-17T05:16:15.021024Z
+# Updated at 2025-08-17T06:22:02.664366Z
 #EXTM3U
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Dutch GP Free Practice 1 Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://nextcast.click/hls/HDGQ21/index.m3u8?st=4yWNgR2Xs3fQGOEM2yNLHQ&e=1755418576
+https://nextcast.click/hls/HDGQ21/index.m3u8?st=NgCrwn2zJnHzv1a7IVeYyw&e=1755422531
 
-#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MMA.png" group-title="StreamEast - MMA",UFC 319: Du Plessis vs. Chimaev Live Stream
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="StreamEast - Am. Football",Buffalo vs. Chicago Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://mainstreams.pro/hls/zeuryuegn48.m3u8?st=S7JgwgOUSpyOkw-HqAxS5TdIhRgeiCDMQm-H414GnbU&e=1755418587
+https://edgestreams.pro/hls/cwxcnbscbsq39.m3u8?st=uhjWzh7NzNA4v4OWu_q12g7yRKsm4LXB1noqL3rb0mA&e=1755422535
+
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="StreamEast - Am. Football",Jacksonville vs. New Orleans Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://fl1.moveonjoy.com/NFL_NETWORK/tracks-v1a1/mono.m3u8?verify=1755411741-%2BDh%2B3FXV1rogG9%2Fp6QHctiIOO5uX5bpqr4czOkxYrhA%3D
 
