@@ -1,8 +1,14 @@
-# Updated at 2025-08-17T10:15:40.694135Z
+# Updated at 2025-08-17T11:13:15.625119Z
 #EXTM3U
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="StreamEast - Am. Football",Buffalo vs. Chicago Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://mainstreams.pro/hls/cwxcnbscbsq39.m3u8?st=1haeFFbE06hJiEYq79scQJr0AHtwhidJSgR4ssMUvWU&e=1755440022
+
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Dutch GP Free Practice 1 Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://nextcast.click/hls/HDGQ21/index.m3u8?st=KMI2E56w-bHjmpReg_KWeQ&e=1755436557
+https://nextcast.click/hls/HDGQ21/index.m3u8?st=QT__6GdEpbUBQYL7N31s0Q&e=1755440115
 
